@@ -1,0 +1,4 @@
+Lookups used by the TRSE tool should be kept in this directory. Fro example: 
+ - DfT Journey Time Stats Amenity locations data
+ - Geography lookups (LSAO to LAD | MSOA to Region)
+ - e.t.c
