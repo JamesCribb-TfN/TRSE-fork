@@ -1,0 +1,6 @@
+Directory for storing TRSE model outputs. 
+
+This directory should be populated by amenity indicators for:
+ - LSOA
+ - LAD
+ - CA
