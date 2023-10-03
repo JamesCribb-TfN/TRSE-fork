@@ -1,0 +1,7 @@
+This directory should contain all inputs for the TRSE process.
+
+For exmaple: 
+  - NoHAM car JTs (one for each run year)
+  - Pre-compiled walk_bus_rail (Rail PT) JT matrices
+  - Pre-compiled walk_bus (Bus PT) JT matrices
+  
